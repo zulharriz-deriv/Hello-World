@@ -1,5 +1,7 @@
-This is my Test line number 1 for Hello World PR. 
+This is my first line for Hello World project. 
 
-This is my Test line number 2.
+This is my second line 2
 
-This is a modified line number 3
+This is my third line 3 
+
+This is the newly edited line for Hello World project. 
